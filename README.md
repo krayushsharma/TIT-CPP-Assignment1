@@ -3,17 +3,21 @@
 ##Collage Assingment 
 
 - **Employee**
-  >Using Struct keyword &
-  Storing detail - Eid, Name, Salary
+  > Using Struct keyword<br />
+  > Storing detail - Eid, Name, Salary<br />
+  > Taking Input in (Input.in) file.<br />
 
 - **Switch to check VOWEL**
   > To Check given character is vowel or not.
+  > Exampe a is vowel
   
 - **IsPrime**
   > To check given numer is Prime or not.
+  > Exampe 5 is not Prime
   
 - **Refrence Mechanism**
   > Pass three value is function (a, b, c) & store the sum of two value in Third variable.
+  > Example c = a+b
   
 - **Array**
   - **Reverse the element**
