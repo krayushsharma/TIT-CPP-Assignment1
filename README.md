@@ -1,6 +1,6 @@
 # TIT-CPP-Assignment1
 
-##Collage Assingment 
+## Collage Assingment 
 
 - **Employee**
   > Using Struct keyword<br />
